@@ -1,0 +1,2 @@
+read link
+echo $link

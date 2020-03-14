@@ -5,7 +5,5 @@ git add .
 git status
 git commit -m "first commit" .
 git status
-echo "Enter Your Repositry link"
-read link
-git remote add origin ${link}
+git remote add origin github.com/ShomisMohammed/shomis.git
 git push -u origin master
